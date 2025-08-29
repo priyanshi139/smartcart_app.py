@@ -2,8 +2,9 @@ streamlit
 pandas
 numpy
 scikit-learn
+cython
+setuptools
+wheel
 scikit-surprise
-plotly
-fuzzywuzzy
-python-Levenshtein
-openpyxl
+
+
